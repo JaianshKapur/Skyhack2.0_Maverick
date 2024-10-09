@@ -1,5 +1,5 @@
 # Skyhack2.0_Maverick
-Optimization of Customer Service | Machine Learning and Python
+## Optimization of Customer Service| Machine Learning and Python
 Performed sentiment analysis to gain insghts on handling time.
 Utilised call transcripts to gain insights into the major themes related to Handling time. Provided actionable recommendations.
 SKYHACK Hackathon: https://www.hackerearth.com/challenges/hackathon/skyhack-3/#overview
